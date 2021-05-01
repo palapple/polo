@@ -16,6 +16,7 @@ tags:
 ## VuePress 快速搭建 && vuepress-theme-reco
  官方的 VuePress 具有详细的部署文档和细致的配置说明，但是对于一般的小白来说，可能仅需要简单的配置，希望能快速上线（包括我在内，总是看不完长篇大论的书）。希望有一个快速上手的文档，加上一些高频的配置和简易的部署流程，快速上手搭建一个文档输出；
 
+<!-- more -->
 ### 部署到 Gitee Pages
 
 Gitee `Pages` 是一个免费的静态网页托管服务，您可以使用 Gitee `Pages` 托管博客、项目官网等静态网页。如果您使用过 `Github Pages` 那么您会很快上手使用 Gitee 的 `Pages`服务。目前 Gitee `Pages` 支持 Jekyll、Hugo、Hexo编译静态资源。
